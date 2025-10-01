@@ -1,0 +1,21 @@
+{
+    "name": "Golf Quick Cues",
+    "short_name": "Golf Cues",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#1a5f3a",
+    "theme_color": "#1a5f3a",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "icon-512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        },
+        {
+            "src": "icon-192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        }
+    ]
+}
